@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\background.jpg" />
+    <None Remove="Images\group_icon.png" />
+    <None Remove="Images\home.jpg" />
+    <None Remove="Images\key.svg" />
+    <None Remove="Images\key_icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Material.Icons.WPF" Version="2.1.9" />
+    <PackageReference Include="MySqlConnector" Version="2.3.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\background.jpg" />
+    <Resource Include="Images\group_icon.png" />
+    <Resource Include="Images\home.jpg" />
+    <Resource Include="Images\key.svg" />
+    <Resource Include="Images\key_icon.png" />
+  </ItemGroup>
+
+</Project>

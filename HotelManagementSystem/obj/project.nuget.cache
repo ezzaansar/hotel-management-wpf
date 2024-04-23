@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQvXp3gS+NSm5ZOgWgQB5nkGSZ0vQBpoyePm1i3yNkljiR8Lh8U/TTmr4GIjYYX7jaImZ+ackTeWop1YOuiRCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\material.icons\\2.1.9\\material.icons.2.1.9.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\material.icons.wpf\\2.1.9\\material.icons.wpf.2.1.9.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
